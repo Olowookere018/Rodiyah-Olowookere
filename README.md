@@ -1,4 +1,4 @@
-# Rodiyah-# Hi, I'm Rodiyah 👋
+ Hi, I'm Rodiyah 👋
 
 I'm a Radiography and Radiation Science student exploring the world of Data Analytics.
 
